@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "605754503137",
+    "firebase_url": "https://wheretospeech.firebaseio.com",
+    "project_id": "wheretospeech",
+    "storage_bucket": "wheretospeech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605754503137:android:4244faf123086550",
+        "android_client_info": {
+          "package_name": "wheretospeach.ndm.com.wheretospeach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605754503137-opsqvl2kgk4teqe2kvjv2qebftjgcpdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv4Yp6fF_U5FD-NgNOOc-JkVJD9stDQEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
