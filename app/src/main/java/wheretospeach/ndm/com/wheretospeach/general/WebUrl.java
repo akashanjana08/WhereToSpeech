@@ -6,7 +6,7 @@ package wheretospeach.ndm.com.wheretospeach.general;
 public class WebUrl
 {
 
-    public static final String serverIP="http://trackerplus.000webhostapp.com/speachTracker/test";
+    public static final String serverIP="http://trackerplus.000webhostapp.com/speachTracker/";
 
     public static final String DEVICE_REGISTER_URL=serverIP+"deviceRegisterd.php";
 
